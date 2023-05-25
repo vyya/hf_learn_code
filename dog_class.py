@@ -10,5 +10,6 @@ def print_dog(axe):
 codie = Dog('Codie', 12, 38)
 jackson = Dog('Jackson', 9, 12)
 codie.age = 8
+jackson.weight = 21
 print_dog(codie)
 print_dog(jackson)    
